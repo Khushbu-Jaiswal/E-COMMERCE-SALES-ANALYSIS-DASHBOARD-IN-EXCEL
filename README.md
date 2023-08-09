@@ -1,1 +1,11 @@
 # E-COMMERCE-SALES-ANALYSIS-DASHBOARD-IN-EXCEL
+ABOUT DATA SET :
+This dataset provides valuable information about E-COMMERCE STORE, encompassing a wide range of factors and much more.
+PROJECT OBJECTIVE:
+By analysing this dataset, we can gain insights into various aspects related to boost the sales , take valuable decisions which can improve and scale the business . And take actions to minimize the loss risks.
+Data Sources and Key Metrics for Project Development :
+I use excel to build this project. This project includes Data Cleaning , Data formatting. Furthermore I use different KPIs for this such as sales, profit, quantity, no. of orders and profit margin and to show all this I used year by year growth, sparkline feature and total sum of all particular values.
+I used different charts to present my data such as sales and profit analysis, category wise profit, sales by state, top 5 subcategories by sales and last category wise sales share in %. We use pivot chart to VISUALIZE the data. 
+I use 3 different filters for this dashboard which are year wise, region wise and segment wise.
+This is fully dynamic EXCEL dashboard.E-COMMERCE SALES ANALYSIS DASHBOARD (IN EXCEL) ABOUT DATA SET : This dataset provides valuable information about E-COMMERCE STORE, encompassing a wide range of factors and much more. PROJECT OBJECTIVE: By analysing this dataset, we can gain insights into various aspects related to boost the sales , take valuable decisions which can improve and scale the business . And take actions to minimize the loss risks. Data Sources and Key Metrics for Project Development : I use excel to build this project. This project includes Data Cleaning , Data formatting. Furthermore I use different KPIs for this such as sales, profit, quantity, no. of orders and profit margin and to show all this I used year by year growth, sparkline feature and total sum of all particular values. I used different charts to present my data such as sales and profit analysis, category wise profit, sales by state, top 5 subcategories by sales and last category wise sales share in %. We use pivot chart to VISUALIZE the data. I use 3 different filters for this dashboard which are year wise, region wise and segment wise. This is fully dynamic EXCEL dashboard.
+Skills: Microsoft Power Query · Microsoft Excel
